@@ -176,8 +176,8 @@ of many people over the course of many years, including:
 - Frederic Wu (undergrad; University of California, Berkeley)
 - Xinrui Wu (undergrad; Tsinghua University)
 - Sabrina Yarzada (PhD student; University of Southern California)
-- Yan Zhu (PhD student; University of California, Berkeley)
 - Seunghyun Yong (undergrad; Seoul National University)
+- Yan Zhu (PhD student; University of California, Berkeley)
 
 We would also like to thank the following people, whose insights allowed us to
 better understand, describe, and, in some cases, even validate our TeAAL
