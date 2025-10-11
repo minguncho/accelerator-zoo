@@ -7,6 +7,7 @@ representing the following accelerators:
 - [DSTC](https://dl.acm.org/doi/10.1109/ISCA52012.2021.00088)
 - [ExTensor](https://dl.acm.org/doi/10.1145/3352460.3358275)
 - [Eyeriss](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738524)
+- [FEASTA](https://dl.acm.org/doi/10.1145/3620666.3651336)
 - [Flexagon](https://dl.acm.org/doi/10.1145/3582016.3582069)
 - [FuseMax](https://arxiv.org/abs/2406.10491)
 - [Gamma](https://dl.acm.org/doi/pdf/10.1145/3445814.3446702)
@@ -160,22 +161,23 @@ notebook and accelerator.
 The TeAAL specifications presented in this repository are the combined effort
 of many people over the course of many years, including:
 
-- Timor Averbuch
-- Alex Dicheva
-- Joel S. Emer
-- Christopher W. Fletcher
-- Yuxin Jin
-- Nandeeka Nayak
-- Toluwanimi O. Odemuyiwa
-- Michael Pellaeur
-- Jules Peyrat
-- Chenxi Wan
-- Yingchen Wang
-- Frederic Wu
-- Xinrui Wu
-- Sabrina Yarzada
-- Yan Zhu
-- Seunghyun Yong
+- Bosung An (undergrad; Seoul National University)
+- Timor Averbuch (undergrad; University of Illinois Urbana-Champaign)
+- Alex Dicheva (undergrad; University of Illinois Urbana-Champaign)
+- Joel S. Emer (professor; Massachusetts Institute of Technology)
+- Christopher W. Fletcher (professor; University of California, Berkeley)
+- Yuxin Jin (undergrad; Tsinghua University)
+- Nandeeka Nayak (PhD student; University of California, Berkeley)
+- Toluwanimi O. Odemuyiwa (PhD Student; University of California, Davis)
+- Michael Pellaeur (research scientist; NVIDIA)
+- Jules Peyrat (masters; École Polytechnique)
+- Chenxi Wan (undergrad; University of Science and Technology of China)
+- Yingchen Wang (postdoc; University of California, Berkeley)
+- Frederic Wu (undergrad; University of California, Berkeley)
+- Xinrui Wu (undergrad; Tsinghua University)
+- Sabrina Yarzada (PhD student; University of Southern California)
+- Yan Zhu (PhD student; University of California, Berkeley)
+- Seunghyun Yong (undergrad; Seoul National University)
 
 We would also like to thank the following people, whose insights allowed us to
 better understand, describe, and, in some cases, even validate our TeAAL
